@@ -1,6 +1,6 @@
 {
     "versions": {
-        "layer": "2.22",
+        "layer": "2.9",
         "navigator": "2.3.2"
     },
     "name": "Heatmap",
